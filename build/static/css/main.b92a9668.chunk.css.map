@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACA,UACA,CACA,SACE,qBAAuB,CACvB,iBACF","file":"main.b92a9668.chunk.css","sourcesContent":[".class{\nwidth:100%;\n}\n.addUser{\n  background-color: black;\n  text-align: center;\n}"]}
